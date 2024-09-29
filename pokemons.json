@@ -1,0 +1,42 @@
+[
+    {
+        "name": "bulbasaur",
+        "url": "https://pokeapi.co/api/v2/pokemon/1/"
+    },
+    {
+        "name": "ivysaur",
+        "url": "https://pokeapi.co/api/v2/pokemon/2/"
+    },
+    {
+        "name": "bulbasaur",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1/"
+    },
+    {
+        "name": "charmander",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/4/"
+    },
+    {
+        "name": "blastoise",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/9/"
+    },
+    {
+        "name": "wartortle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/8/"
+    },
+    {
+        "name": "venusaur",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/3/"
+    },
+    {
+        "name": "squirtle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/7/"
+    },
+    {
+        "name": "charmeleon",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/5/"
+    },
+    {
+        "name": "charizard",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/6/"
+    }
+]
